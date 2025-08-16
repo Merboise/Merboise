@@ -1,7 +1,15 @@
 ## Hi there 👋
 
+This is the profile repo of a student trying to make cool projects in their final year of College. 
+Currently, I'm working on 4 primary projects as of this commit:
+  1. Dark Money - A hybrid card game / app themed around finance and specifically [Dark Pools]([url](https://en.wikipedia.org/wiki/Dark_pool)). 
+  2. A research paper in colloboration with a Professor on the relationship between natural disasters and innovation (measured in patents output by firms).
+  3. Web development for my student governments website.
+  4. Blogging my interests and minor projects both for the public to see and to save on space in my memory!
+
+Oh and I would like to dearly thank A.T, I couldn't have done any of this without him and his brilliance, I hope one day he reads this with pride. 
 <!--
-**Merboise/Merboise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xanduACSUML/xanduACSUML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
